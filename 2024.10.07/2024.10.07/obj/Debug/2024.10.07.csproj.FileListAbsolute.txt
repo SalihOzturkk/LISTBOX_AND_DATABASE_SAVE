@@ -1,0 +1,42 @@
+C:\Users\User\Desktop\2024.10.07\2024.10.07\bin\Debug\2024.10.07.exe.config
+C:\Users\User\Desktop\2024.10.07\2024.10.07\bin\Debug\2024.10.07.exe
+C:\Users\User\Desktop\2024.10.07\2024.10.07\bin\Debug\2024.10.07.pdb
+C:\Users\User\Desktop\2024.10.07\2024.10.07\obj\Debug\2024.10.07.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\2024.10.07\2024.10.07\obj\Debug\_2024._10._07.Form1.resources
+C:\Users\User\Desktop\2024.10.07\2024.10.07\obj\Debug\_2024._10._07.Properties.Resources.resources
+C:\Users\User\Desktop\2024.10.07\2024.10.07\obj\Debug\2024.10.07.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\2024.10.07\2024.10.07\obj\Debug\2024.10.07.exe
+C:\Users\User\Desktop\2024.10.07\2024.10.07\obj\Debug\2024.10.07.pdb
+C:\Users\User\Desktop\2024.10.07\2024.10.07\obj\Debug\_2024._10._07.Form2.resources
+C:\Users\User\Desktop\2024.10.07\2024.10.07\obj\Debug\_2024._10._07.Form3.resources
+C:\Users\User\Desktop\2024.10.07\2024.10.07\obj\Debug\_2024._10._07.Form4.resources
+C:\Users\User\Desktop\2024.10.07\2024.10.07\obj\Debug\_2024._10._07.Form5.resources
+E:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.07\2024.10.07\bin\Debug\2024.10.07.exe.config
+E:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.07\2024.10.07\obj\Debug\2024.10.07.exe
+E:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.07\2024.10.07\obj\Debug\2024.10.07.pdb
+E:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.07\2024.10.07\bin\Debug\2024.10.07.exe
+E:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.07\2024.10.07\bin\Debug\2024.10.07.pdb
+E:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.07\2024.10.07\obj\Debug\2024.10.07.csprojResolveAssemblyReference.cache
+E:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.07\2024.10.07\obj\Debug\_2024._10._07.Form1.resources
+E:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.07\2024.10.07\obj\Debug\_2024._10._07.Form2.resources
+E:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.07\2024.10.07\obj\Debug\_2024._10._07.Form3.resources
+E:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.07\2024.10.07\obj\Debug\_2024._10._07.Form4.resources
+E:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.07\2024.10.07\obj\Debug\_2024._10._07.Form5.resources
+E:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.07\2024.10.07\obj\Debug\_2024._10._07.Properties.Resources.resources
+E:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.07\2024.10.07\obj\Debug\2024.10.07.csproj.GenerateResource.Cache
+F:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.07\2024.10.07\bin\Debug\2024.10.07.exe.config
+F:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.07\2024.10.07\obj\Debug\2024.10.07.exe
+F:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.07\2024.10.07\obj\Debug\2024.10.07.pdb
+F:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.07\2024.10.07\bin\Debug\2024.10.07.exe
+F:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.07\2024.10.07\bin\Debug\2024.10.07.pdb
+F:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.07\2024.10.07\obj\Debug\2024.10.07.csprojResolveAssemblyReference.cache
+F:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.07\2024.10.07\obj\Debug\_2024._10._07.Form1.resources
+F:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.07\2024.10.07\obj\Debug\_2024._10._07.Form2.resources
+F:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.07\2024.10.07\obj\Debug\_2024._10._07.Form3.resources
+F:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.07\2024.10.07\obj\Debug\_2024._10._07.Form4.resources
+F:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.07\2024.10.07\obj\Debug\_2024._10._07.Form5.resources
+F:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.07\2024.10.07\obj\Debug\_2024._10._07.Properties.Resources.resources
+F:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.07\2024.10.07\obj\Debug\2024.10.07.csproj.GenerateResource.Cache
+D:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.07\2024.10.07\bin\Debug\2024.10.07.exe.config
+D:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.07\2024.10.07\obj\Debug\2024.10.07.exe
+D:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.07\2024.10.07\obj\Debug\2024.10.07.pdb
